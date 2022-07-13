@@ -492,11 +492,10 @@ section {
   font-family: "Raleway", sans-serif;
 }
 #about .content h3 {
-  color: #555;
+  color: #dedede;
   font-weight: 300;
   font-size: 18px;
   line-height: 26px;
-  font-style: italic;
 }
 #about .content p {
   line-height: 26px;
