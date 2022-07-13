@@ -422,7 +422,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #fafafa;
+  background-color: #8b58cd;
   min-height: 40px;
 }
 .breadcrumbs h2 {
@@ -559,7 +559,7 @@ section {
   font-size: 22px;
 }
 #services .box h4 a {
-  color: #444;
+  color: #fff;
 }
 #services .box p {
   font-size: 14px;
