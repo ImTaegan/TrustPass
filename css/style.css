@@ -455,7 +455,10 @@ h1, h2, h3, h4, h5, h6 {
 # Sections
 -------------------------------------------------------------*/
 section {
-  padding: 40px 0;
+  padding-top: 0px;
+  padding-right: 40px;
+  padding-bottom: 0px;
+  padding-left: 40px;
   overflow: hidden;
 }
 
