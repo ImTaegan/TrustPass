@@ -596,7 +596,7 @@ section {
 #services .box {
   padding: 40px;
   box-shadow: 10px 10px 15px rgba(73, 78, 92, 0.1);
-  background: #8b58cd;
+  background: #363655;
   transition: 0.4s;
   height: 100%;
 }
@@ -618,7 +618,7 @@ section {
 }
 #services .box .icon i:before {
   background: #0c2e8a;
-  background: linear-gradient(45deg, #50d8af 0%, #a3ebd5 100%);
+  background: linear-gradient(45deg, #47e7d3 0%, #ca37f4 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
