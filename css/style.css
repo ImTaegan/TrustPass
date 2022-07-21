@@ -736,13 +736,13 @@ section {
   padding: 15px 20px;
 }
 #portfolio .portfolio-item .portfolio-info h4 {
-  font-size: 18px;
+  font-size: 15px;
   color: #fff;
   font-weight: 600;
 }
 #portfolio .portfolio-item .portfolio-info p {
   color: #fff;
-  font-size: 14px;
+  font-size: 12px;
   margin-bottom: 0;
 }
 #portfolio .portfolio-item .portfolio-info .preview-link, #portfolio .portfolio-item .portfolio-info .details-link {
