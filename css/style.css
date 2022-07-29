@@ -493,7 +493,7 @@ section {
 
 .teamcolumn {
     flex: 0 0 auto;
-    width: 15%;
+    width: 13%;
 }
 
 /*--------------------------------------------------------------
@@ -965,7 +965,7 @@ background: linear-gradient(45deg, rgba(0,190,184,1) 0%, rgba(122,78,180,1) 100%
 #team .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
+  font-size: 13px;
 }
 #team .member span {
   font-style: italic;
